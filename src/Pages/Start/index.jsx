@@ -8,7 +8,7 @@ export default function Start(){
         <View>
           <Image source={require("../../assets/icons/logo3.png")} style={styles.logo}/>
           <Text style={styles.description}>
-            Vamos transformar suas vida {"\n"} patetica! em um jogo, buscando sempre {"\n"} o melhor nivel.
+            Vamos transformar suas vida {"\n"} em um jogo, buscando sempre {"\n"} o melhor nivel.
           </Text>
         </View>
       </ScrollView>
