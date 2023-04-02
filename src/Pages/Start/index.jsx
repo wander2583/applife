@@ -1,7 +1,6 @@
 import React from "react";
 import { Image, ScrollView, StyleSheet, Text, View } from "react-native";
 
-
 export default function Start(){
   return (
   <View style={styles.container}>
