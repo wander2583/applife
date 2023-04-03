@@ -1,5 +1,5 @@
 import React from "react";
-import { Image, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Button, Image, ScrollView, StyleSheet, Text, View } from "react-native";
 
 export default function Start(){
   return (
@@ -11,7 +11,7 @@ export default function Start(){
             Vamos transformar suas vida {"\n"} em um jogo, buscando sempre {"\n"} o melhor nivel.
           </Text>
         </View>
-      </ScrollView>
+     </ScrollView>
     </View>
   )
 }
@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     width: 300,
     height: 60,
     marginTop: 60,
-    marginBotton: 20,
+    marginBottom: 20,
   },
   description: {
     color: "#fff",
